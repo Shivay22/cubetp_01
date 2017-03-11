@@ -1,0 +1,47 @@
+h1{
+	font-size:15px;
+	color:blue;
+}
+
+p{
+	text-align:center;
+	
+}
+
+#id_selector{
+	
+	}
+	
+.div_100{
+	width:100%;	
+}
+
+.div_30{
+	width:auto;
+	display:inline;
+}
+
+/*h1, h2, p {
+     text-align: center;
+    color: red;
+}*/
+
+body
+	{
+		background-color: lightblue;
+		border-width:10px;
+		margin: 20px;
+	}
+	
+	
+div{
+	border-style: dotted;
+	border-width:1px;
+	padding:5px;
+	margin:5px;
+}
+
+nav{
+	display:inline;
+	border:5px red solid;
+}

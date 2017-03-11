@@ -1,0 +1,45 @@
+﻿#footer {
+	text-align: center;
+	background-color: lightblue;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+#footer p {
+	font-size: 11px;
+	line-height: 14px;
+	color: teal;
+	margin: 1px;
+	padding: 1px;
+}
+#footer a {
+	color: teal;
+	text-decoration: underline;
+}
+#footer a:hover {
+	color: #fff;
+	text-decoration: none;
+}
+
+/*a {
+	color: red;
+	text-decoration: underline;
+}
+
+p {
+	color: black;
+}
+*/
+
+/*a:hover {
+	color: #808080;
+	text-decoration: underline;
+}
+*/
+
+.style_bold {
+	font-weight: bold;
+}
+.style_italic {
+	font-style: italic;
+}
