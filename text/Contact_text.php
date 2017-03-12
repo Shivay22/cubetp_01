@@ -1,8 +1,7 @@
+<div>
 
-<div class="container">
+Following projects are available for the development of students. Please contact support@cubetp.com for further details.
 
-<h2>Following Training programmes are available currently. Please contact learn@cubetp.com for further details.
-</h2>
 </div>
 <div>
 Electronics
@@ -18,9 +17,11 @@ Web Development
 	PHP
 	Symphony
 Graphic Design
+
 </div>
+
 <div>
-Embedded Electronics Project 1
+Embedded Electronics
 
 </div>
 
