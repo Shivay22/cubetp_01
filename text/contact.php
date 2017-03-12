@@ -7,11 +7,11 @@
 			<div><h4>The 
 				Director<br/>
 			Cube 
-				Engineering Solutions Ltd<br/>
+				TP Ltd<br/>
 			Mobile: 
-				+44 (0) 778 7911 988<br/>
+				+91 (0) <br/>
 				Email: 
-				support@cubengg.co.uk<br/></h4></div>
+				learn@cubetp.cm<br/></h4></div>
 			<p><br/></p>
 			<p>&nbsp;</p>
 			<p><br/><br/><br/><br/><br/><br/><br/></p></div>
