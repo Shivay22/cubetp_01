@@ -14,6 +14,9 @@ Following Training programmes are available currently. Please contact us for fur
 
 <div class="container">
 <ul><h3>
+<li>Page under development
+<li>
+
 <li>Basic Electronics
     <li> Embedded Electronics
 <li>Web Development
