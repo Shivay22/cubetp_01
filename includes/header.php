@@ -5,12 +5,14 @@
 		</div>
 
 		
-		<div class="col-md-8" style="text-align:right;">
+		<div class="col-md-7" style="text-align:right;">
 			<h1>Cube Technosoft (Private) Ltd</h1>
 			<h5>Training & Placement services</h5>
 			
-		</div>		
-		 
+		</div class="col-md-1">		
+		 		
+			
+		</div>	
 	</div>
 	
 	

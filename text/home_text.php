@@ -12,7 +12,7 @@
 		</div>
 		
 		
-		<div class="col-md-6" style="background-color:#a7a74a;" > 
+		<div class="col-md-5" style="background-color:#a7a74a;" > 
 					<h1 style="background-color:lightblue;text-align:center;padding:20px">Vision:
 					<br><br>
 						Skill India
@@ -24,6 +24,10 @@
 					</h1>
 		</div>
 
+		</div class="col-md-1">		
+		 		
+			
+		</div>
 	</div>
 	
 </div>
