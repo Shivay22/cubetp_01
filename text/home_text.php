@@ -3,6 +3,8 @@
 <br>
 
 </div>
+
+
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-6"> 
@@ -10,7 +12,7 @@
 		</div>
 		
 		
-		<div class="col-md-6"> 
+		<div class="col-md-6" style="background-color:#a7a74a;" > 
 					<h1 style="background-color:lightblue;text-align:center;padding:20px">Vision:
 					<br><br>
 						Skill India
@@ -30,6 +32,13 @@
 <hr style="border: 1.5px teal double; clear: both;"/>
 
 <br>
+
+<div class="container">
+
+<p style="text-align: center"><img alt="Wavelet" src="images/wavelet_logo_rev_01.jpeg" height=150px>
+</p>
+</div>
+
 <div class="container">
 <br>
 <br>
