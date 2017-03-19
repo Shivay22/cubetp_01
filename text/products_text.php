@@ -1,25 +1,24 @@
-<div>
-
-Following products are available at our online store. Please what’s app at (+91)9958 127 127 for your requirements, else email us at support@cubetp.com
-
+<div class="container">
+<h2>
+Following products are available at our online store. Please contact us for all your requirements</h2>
 </div>
 
-<div>
-
-Electronics
-        RF
-Mechanical
-        Pneumatics
-
-
+<div class="container">
+<ul><h3>
+<li>Electronics
+   <li>     RF
+<li>Mechanical
+   <li>     Pneumatics
+</h3>
+</ul>
 </div>
 
-<div>
-RF Components
 
-</div>
-
-<div>
-If the component you are looking for is not listed above, still you are welcome to let us know your requirement and there is a very high possibility that we will find a suitable component from our list of suppliers  in few days time, else we will advice you accordingly.
-
+<div class="container">
+<h3>
+If the component you are looking for is not listed above, 
+still you are welcome to discuss your requirements with us 
+and there is a very high possibility that we will find it 
+from our list of suppliers, else we will advice you accordingly.
+</h3>
 </div>
