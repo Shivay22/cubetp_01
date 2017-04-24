@@ -32,3 +32,9 @@ body {
 	border: 5px double black;
 	background-color: #9BBB59;
 }
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
