@@ -11,9 +11,6 @@ Following projects are available for the development of students. Please contact
 </div>
 <div  class="container">
 <ul><h3>
-<li>Page under development
-<li>
-
 	<li>Basic Electronics
      <li>Embedded Electronics
 <li>Web Development
