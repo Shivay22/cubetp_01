@@ -16,32 +16,32 @@
       <div class="item active">
         <img src="images/electronics1.jpg" alt="electronics" width="2000" height="1500">
         <div class="carousel-caption">
-          <h3>Chania</h3>
-          <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
+          <h3>Embedded Electronics</h3>
+          <p>Training on Embedded Electronics</p>
         </div>
       </div>
 
       <div class="item">
         <img src="images/circuit1.jpg" alt="Chania" width="2000" height="1500">
         <div class="carousel-caption">
-          <h3>Chania</h3>
-          <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
+          <h3>PCB Design & Layout</h3>
+          <p>Training on PCB Design & Layout</p>
         </div>
       </div>
     
       <div class="item">
         <img src="images/solder1.jpg" alt="Flower" width="2000" height="1500">
         <div class="carousel-caption">
-          <h3>Flowers</h3>
-          <p>Beatiful flowers in Kolymbari, Crete.</p>
+          <h3>Projects</h3>
+          <p>Hands on Training on various projects</p>
         </div>
       </div>
 
       <div class="item">
         <img src="images/code1.jpg" alt="Flower" width="2000" height="1500">
         <div class="carousel-caption">
-          <h3>Flowers</h3>
-          <p>Beatiful flowers in Kolymbari, Crete.</p>
+          <h3>Software & Web Development</h3>
+          <p>Various training on Software writing and Web development technologies.</p>
         </div>
       </div>
   

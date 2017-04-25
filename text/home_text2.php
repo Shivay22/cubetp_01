@@ -31,7 +31,7 @@
 
 	<div class="col-sm-4">
 	<br><br>
-		<p style="text-align: center;"><img alt="Wavelet" src="images/wavelet_logo_rev_01.jpeg" height=150px>
+		<p style="text-align: center;"><img alt="Wavelet" class="img-circle" src="images/wavelet_logo_rev_01.jpeg" height=200px width=200px>
 		</p>
 	</div>
 	<div class="col-sm-8" style="text-align: left;" >
