@@ -23,16 +23,26 @@
 
 </style>
 
+<div class="container-fluid bg-3 text-center" style="padding-top:10px;padding-bottom:10px"> 
   <div class="row">
     <div class="col-sm-4" style="padding:50px">
       
       <img src="images/website_1.png" alt="Website Designing" width=300px height=166px padding=2px style="border:2px solid #021a40" background-color=lightgrey>
+      <h3 style="text-align: center;text-decoration:underline">Website Designing</h3>
       <h4>Website is an essential tool for every organization and every organization needs in-house skill set 
+      to reduce its development and maintenance cost. <br><br>
+      We provide basic training on website development topoics like HTML, CSS and Bootstrap to give a kick start to your career.</h4>
     </div>
     <div class="col-sm-4" style="padding:50px">
+      <img src="images/embedded_electronics_1.png" alt="Embedded Electronics" width=300px height=166px padding=2px style="border:2px solid #021a40" background-color=lightgrey>
+      <h3 style="text-align: center;text-decoration:underline">Embedded Electronics</h3>
       <h4>Embedded electronics </h4>
     </div>
     <div class="col-sm-4" style="padding:50px"> 
+      <img src="images/php_1.svg" alt="PHP" width=300px height=166px>
+      <h3 style="text-align: center;text-decoration:underline">PHP</h3>
+      <h4>We provide basic course on PHP to develeop your website design skill so that 
+      you can build and maintain website with database functionality.<br><br>We expect you to have sufficient knowledge of HTML and CSS.</h4>
     </div>
   </div>
 </div>
