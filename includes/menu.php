@@ -14,15 +14,19 @@
 					<li><a href="">                 </a></li>              
                     <li class="active"><a href="index.php">Home</a></li>
                     <li><a href="training.php">Training</a></li>
-                    <li><a href="development.php">Development</a></li>
 					<li><a href="placement.php">Placement</a></li>
 					<li><a href="products.php">Products</a></li>
-					<li><a href="contact.php">Contact</a></li>
-                </ul>
-				    <ul class="nav navbar-nav navbar-right">
-      					<li><a href="register.php"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
-      					<li><a href="login.php"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
-    			</ul>
+					<li><a href="services.php">Services</a></li>
+<?php              
+               global $login_setup;
+if ($login_setup==="ok")
+{
+	include 'log.php';
+}
+?>
+                
+    			
+    			
             </div>
         </div>
     </nav>
