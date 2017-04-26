@@ -9,7 +9,8 @@
         </div>
     </div>
 </section>
-<div class="container" style="text-align:center">
+
+<div class="container text-center">
   <div class="row">
     <div class="col-sm-4">
       <h3 style="text-align:center">Digital India</h3>

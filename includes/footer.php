@@ -20,9 +20,9 @@
             	<ul>
             		<li><a class="text-white" href="index.php">Home</a></li>
             		<li><a class="text-white" href="training.php">Training</a></li>
-            		<li><a class="text-white" href="development.php">Development</a></li>
-            		<li><a class="text-white" href="developmentplacement.php">Placement</a></li>
+            		<li><a class="text-white" href="placement.php">Placement</a></li>
             		<li><a class="text-white" href="products.php">Products</a></li>
+            		<li><a class="text-white" href="services.php">Services</a></li>
             	</ul>
            	</div>
            	
