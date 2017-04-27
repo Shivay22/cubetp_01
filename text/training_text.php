@@ -36,13 +36,13 @@
     <div class="col-sm-4" style="padding:50px">
       <img src="images/embedded_electronics_1.png" alt="Embedded Electronics" width=300px height=166px padding=2px style="border:2px solid #021a40" background-color=lightgrey>
       <h3 style="text-align: center;text-decoration:underline">Embedded Electronics</h3>
-      <h4>Embedded electronics </h4>
+      <h4>Embedded electronics training includes basic electronics theory, circuit schematic design, PCB layout and PCB manufacturing process through to projects development. </h4>
     </div>
     <div class="col-sm-4" style="padding:50px"> 
       <img src="images/php_1.svg" alt="PHP" width=300px height=166px>
       <h3 style="text-align: center;text-decoration:underline">PHP</h3>
       <h4>We provide basic course on PHP to develeop your website design skill so that 
-      you can build and maintain website with database functionality.<br><br>We expect you to have sufficient knowledge of HTML and CSS.</h4>
+      you can build and maintain website with database functionality.<br><br>We expect you to have sufficient knowledge of HTML and CSS for this course.</h4>
     </div>
   </div>
 </div>
