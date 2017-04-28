@@ -12,10 +12,10 @@
             <div class="collapse navbar-collapse" id="mainNavBar">
                 <ul class="nav navbar-nav">
 					<li><a href="">                 </a></li>              
-                    <li class="active"><a href="index.php">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li><a href="training.php">Training</a></li>
 					<li><a href="placement.php">Placement</a></li>
-					<li><a href="products.php">Products</a></li>
+<!-- 					<li><a href="products.php">Products</a></li> -->
 					<li><a href="services.php">Services</a></li>
 <?php              
                global $login_setup;

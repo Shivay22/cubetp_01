@@ -8,9 +8,9 @@
 <div class="container">
 
 <h2 style="text-align: center;text-decoration:underline">
-3 Months / 3 Weeks / 1 Week Trainings
+3 Months / 3 Weeks / 1 Week Training
 </h2>
-<h4 style="text-align: center">Please contact us for more details</h4>
+
 <br>
 </div>
 

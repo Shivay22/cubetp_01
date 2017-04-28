@@ -1,6 +1,6 @@
 <head>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<title>Cube</title>
+<title>Cube Technosoft</title>
 <link href="css/style3.css" media="screen" rel="stylesheet"
 	title="CSS" type="text/css" />
 	

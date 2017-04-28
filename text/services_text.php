@@ -1,33 +1,37 @@
-<div class="container">
-
-<p style="text-align: center"><img alt="Wavelet" src="images/wavelet_logo_rev_01.jpeg" height=150px>
-</p>
-</div>
-
-<div class="container">
-<h2>
-Following projects are available for the development of students. Please contact us for further details.
-</h2>
-</div>
-<div  class="container">
-<ul><h3>
-	<li>Basic Electronics
-     <li>Embedded Electronics
-<li>Web Development
-	<li>HTML
-	<li>CSS
-	<li>Bootstrap
-	<li>PHP
-</h3>
-</ul>
+<div class="container-fluid text-center underline bg-success" style="padding:20px">
+<h1>
+Our Services
+</h1>
 </div>
 
 
-<div  class="container">
-<h3>
-If the project of your interest is not listed above, 
-still you are welcome to talk to us and there is a very high possibility 
-that we will arrange the components required for your project which will be 
-available in few weeks time, else we will advice you who can help you to learn.
-</h3>
+<div class="container text-left" style="padding-top: 50px;padding-bottom:50px">
+  <div class="row" style="padding-top: 50px;padding-bottom:50px">
+    <div class="col-sm-4">
+    	<h2>Electronics Design</h2>
+    	<ul style="text-align:left"><h3>
+			<li>Circuit Design
+			<li>Schematics
+			<li>PCB Layout
+			</h3>
+		</ul>
+	</div>
+    <div class="col-sm-4">
+    	<h2>Mechanical Design</h2> 
+    	<ul><h3>
+			<li>AutoCad
+			<li>Solidworks
+			<li>Creo
+			</h3>
+		</ul>
+    </div>
+    <div class="col-sm-4">
+    	<h2>Web Design</h2> 
+		<ul  style="text-align:left"><h3>
+			<li>Static
+			<li>Dynamic
+		</h3>
+		</ul>
+	</div>
+  </div>
 </div>
