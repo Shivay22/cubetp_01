@@ -1,10 +1,10 @@
-<section style="background-color: rgb(46, 46, 46); padding-top: 90px; padding-bottom: 10px;color:white">
+<section style="background-color: rgb(46, 46, 46); padding-top: 90px; padding-bottom: 10px;color:rgb(160,160,160)">
     
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-md-3">
                 <p><strong>Address</strong><br>
-					<b>Cube Technosoft Private Ltd</b><br><br>
+					<b>Cube Technosoft Private Ltd</b><br>
 					A-115,
 					Vakil Chamber,<br> 
 					Laxmi Nagar, 
@@ -18,11 +18,11 @@
             <div class="col-xs-12 col-md-3">
             	<p><strong>Links</strong></p>
             	<ul>
-            		<li><a class="text-white" href="index.php">Home</a></li>
-            		<li><a class="text-white" href="training.php">Training</a></li>
-            		<li><a class="text-white" href="placement.php">Placement</a></li>
-            		<li><a class="text-white" href="products.php">Products</a></li>
-            		<li><a class="text-white" href="services.php">Services</a></li>
+            		<li><a class="text-white" href="index.php" style="color:rgb(160,160,160)">Home</a>
+            		<li><a class="text-white" href="training.php" style="color:rgb(160,160,160)">Training</a>
+            		<li><a class="text-white" href="placement.php" style="color:rgb(160,160,160)">Placement</a>
+            		<!--<li><a class="text-white" href="products.php" style="color:rgb(160,160,160)">Products</a>-->
+            		<li><a class="text-white" href="services.php" style="color:rgb(160,160,160)">Services</a>
             	</ul>
            	</div>
            	
@@ -32,6 +32,9 @@
           </div>
 	</div>
 	<br><br>
-<p style="text-align: center">Copyright &copy; Cube Technosoft Private Ltd. All Rights Reserved.</p>
+
 </section>
 
+<section style="padding:10px;background-color:rgb(60,60,60);color:rgb(160,160,160);">
+<p style="text-align: center">Copyright &copy; Cube Technosoft Private Ltd. All Rights Reserved.</p>
+</section>

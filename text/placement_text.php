@@ -5,9 +5,9 @@ button.accordion {
     color: #444;
     color:blue;
     cursor: pointer;
-    padding-top: 18px;
-    padding-bottom: 18px;
-    width: 80%;
+	padding-top: 18px;
+	padding-bottom: 18px;
+	width: 80%;
     border: none;
     text-align: center;
     outline: none;
@@ -22,8 +22,8 @@ button.accordion.active, button.accordion:hover {
 }
 
 div.panel {
-    padding: 0 18px;
-    background-color: white;
+	padding: 0 18px;
+    background-color: rgb(220,220,220);
     max-height: 0;
     overflow: hidden;
     transition: max-height 0.2s ease-out;
@@ -33,11 +33,11 @@ div.panel {
 </style>
 
 
-<div class="container">
+<!-- <div class="container"> -->
 
-<p style="text-align: center"><img alt="Wavelet" src="images/wavelet_logo_rev_01.jpeg" height=150px>
-</p>
-</div>
+<!--<p style="text-align: center"><img alt="Wavelet" src="images/wavelet_logo_rev_01.jpeg" height=150px>-->
+<!-- </p> -->
+<!-- </div> -->
 
 <div class="container" style="padding-bottom:20px">
 <h2>

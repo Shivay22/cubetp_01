@@ -13,7 +13,7 @@
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="images/electronics1.jpg" alt="electronics" width="2000" height="1500">
+        <img src="images/electronics1.jpg" alt="Electronics">
         <div class="carousel-caption">
           <h3>Embedded Electronics</h3>
           <p>Training on Embedded Electronics</p>
@@ -21,7 +21,7 @@
       </div>
 
       <div class="item">
-        <img src="images/circuit1.jpg" alt="Chania" width="2000" height="1500">
+        <img src="images/circuit1.jpg" alt="PCB Design">
         <div class="carousel-caption">
           <h3>PCB Design & Layout</h3>
           <p>Training on PCB Design & Layout</p>
@@ -29,7 +29,7 @@
       </div>
     
       <div class="item">
-        <img src="images/solder1.jpg" alt="Flower" width="2000" height="1500">
+        <img src="images/solder1.jpg" alt="Projects">
         <div class="carousel-caption">
           <h3>Projects</h3>
           <p>Hands on Training on various projects</p>
@@ -37,7 +37,7 @@
       </div>
 
       <div class="item">
-        <img src="images/code1.jpg" alt="Flower" width="2000" height="1500">
+        <img src="images/code1.jpg" alt="Software">
         <div class="carousel-caption">
           <h3>Software & Web Development</h3>
           <p>Various training on Software writing and Web development technologies.</p>
@@ -65,7 +65,7 @@
         <div class="row">
             <div class="jumbotron" style="text-align: center;background-color:rgba(0, 255, 0, 0.28);padding:30px;">
                 <h1>Vision</h1>
-                <small>By Cube Technosoft</small>
+                <small>Cube Technosoft</small>
             </div>
         </div>
     </div>
@@ -74,29 +74,35 @@
 <div class="container text-center">
   <div class="row">
     <div class="col-sm-4">
-      <h3 style="text-align:center">Digital India</h3>
-      <p>Helping students to learn Internet, Web development and related technologies so that they can provide efficient services to their customers in future.</p>
+      <h2 style="text-align:center">Digital India</h2>
+      <h4>Helping students to learn Internet, Web development 
+      and related technologies so that they can provide 
+      efficient services to their customers in future.</h4>
     </div>
     <div class="col-sm-4">
-      <h3>Skill India</h3>
-      <p>Helping student to develop the practical Electronics and Mechanical engineering related skills to prepare them for Industry so that they can innovate new products and services.</p>
+      <h2>Skill India</h2>
+      <h4>Helping student to develop the practical Electronics and 
+      Mechanical engineering related skills to prepare them 
+      for Industry so that they can innovate new products and services.</h4>
     </div>
     <div class="col-sm-4">
-      <h3>Sustainable India</h3> 
-      <p>Providing support in developing the environmental friendly products and related technologies so that minimum natural resources are used.</p>
+      <h2>Sustainable India</h2> 
+      <h4>Providing support in developing the environmental friendly 
+      products and related technologies so that 
+      minimum natural resources are used.</h4>
     </div>
   </div>
 </div>
 <br>
 
-<div class="container-fluid" style="text-align: center;background-color:rgba(255, 255, 0, 0.28);padding:30px;">
+<div class="container-fluid" style="text-align: center;background-color:rgba(0, 255, 0, 0.28);padding:30px;">
 
 	<div class="col-sm-4">
 	<br><br>
 		<p style="text-align: center;"><img alt="Wavelet" class="img-circle" src="images/wavelet_logo_rev_01.jpeg" height=200px width=200px>
 		</p>
 	</div>
-	<div class="col-sm-8" style="text-align: left;" >
+	<div class="col-sm-8" style="text-align: left;color:rgb(30,30,30)" >
 		<h2 margin-left="50px">
 	Wavelet is a division of Cube Technosoft for the training of 
 	engineering undergraduates and graduates to develop their job oriented skills. <br><br>
