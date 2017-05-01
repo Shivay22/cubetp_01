@@ -31,7 +31,7 @@
       <h3 style="text-align: center;text-decoration:underline">Website Designing</h3>
       <h4>Website is an essential tool for every organization and every organization needs in-house skill set 
       to reduce its development and maintenance cost. <br><br>
-      We provide basic training on website development topoics like HTML, CSS and Bootstrap to give a kick start to your career.</h4>
+      We provide basic training on website development topics like HTML, CSS and Bootstrap to give a kick start to your career.</h4>
     </div>
     <div class="col-sm-4" style="padding:50px">
       <img src="images/embedded_electronics_1.png" alt="Embedded Electronics" width=300px height=166px padding=2px style="border:2px solid #021a40" background-color=lightgrey>
