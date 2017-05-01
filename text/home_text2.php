@@ -13,7 +13,7 @@
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="images/electronics1.jpg" alt="Electronics">
+        <img src="images/electronics_2_1.jpg" alt="Electronics" width="2000px" height="20px">
         <div class="carousel-caption">
           <h3>Embedded Electronics</h3>
           <p>Training on Embedded Electronics</p>
@@ -21,7 +21,7 @@
       </div>
 
       <div class="item">
-        <img src="images/circuit1.jpg" alt="PCB Design">
+        <img src="images/circuit_2_1.jpg" alt="PCB Design">
         <div class="carousel-caption">
           <h3>PCB Design & Layout</h3>
           <p>Training on PCB Design & Layout</p>
@@ -29,7 +29,7 @@
       </div>
     
       <div class="item">
-        <img src="images/solder1.jpg" alt="Projects">
+        <img src="images/solder_2_1.jpg" alt="Projects">
         <div class="carousel-caption">
           <h3>Projects</h3>
           <p>Hands on Training on various projects</p>
@@ -37,7 +37,7 @@
       </div>
 
       <div class="item">
-        <img src="images/code1.jpg" alt="Software">
+        <img src="images/code_2_1.jpg" alt="Software">
         <div class="carousel-caption">
           <h3>Software & Web Development</h3>
           <p>Various training on Software writing and Web development technologies.</p>

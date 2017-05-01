@@ -6,7 +6,8 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <img alt="Cube Technosoft" src="images/cube_ts_logo_rev_01.png" height="75px" width="75px"/>
+<!--             <img alt="Cube Technosoft" src="images/cube_ts_logo_rev_01.png" height="75px" width="75px"/> -->
+             <img alt="Cube Technosoft" src="images/logo.png" height="75px" width="75px"/>
         </div>
             <!-- Menu Items -->
             <div class="collapse navbar-collapse" id="mainNavBar">
